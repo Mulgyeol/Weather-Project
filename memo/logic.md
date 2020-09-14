@@ -57,7 +57,7 @@ RN의 Flex 박스는 FlexDirection이 기본값으로 Column(세로) 방향이�
 
 ## Loading Screen
 1. Loading.js 생성
-2. Loading.js
+2. Loading.js 아래 코드 작성
 ```javascript
     import React from "react";
     import { StyleSheet, Text, View } from 'react-native';
